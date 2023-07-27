@@ -10,8 +10,8 @@
 - I'm interested in Web Development
 
       I learned how to code in JavaScript during high school. I became interested in programming because of people around me.
-      However, I didn't know where to start. I've continued my education after high school to achieve a Diploma in
-      Software Development. I've built full stack applications using MERN and PERN stacks.
+      However, I didn't know where to start. I continued my education after high school at Developers Institute to achieve a
+      Diploma in Software Development. I've built many full-stack applications using MERN and PERN stacks.
 
 - I'm currently working on [issue-tracker](https://github.com/Kylewuzhere/issue-tracker)
 
