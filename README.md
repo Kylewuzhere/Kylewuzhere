@@ -19,7 +19,8 @@
 
 - I'm also learning C#
 
-      I want to further expand my coding repetoire with C#.
+      I want to further expand my coding repertoire with C#. I'm interested in creating software applications that require
+      C# apart from web applications.
 
 <h3>Languages and tools</h3>
 <p>
