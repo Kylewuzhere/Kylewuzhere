@@ -13,9 +13,9 @@
       However, I didn't know where to start. I continued my education after high school at Developers Institute to achieve a
       Diploma in Software Development. I've built many full-stack applications using MERN and PERN stacks.
 
-- I'm currently working on [issue-tracker](https://github.com/Kylewuzhere/issue-tracker)
+- I'm currently working on [whispr-app](https://github.com/Kylewuzhere/whispr-app)
 
-      Issue-tracker is a Next.js app that tracks tickets in a project.
+      Whispr is a Vue social media app that lets users post and view other users' posts.
 
 - I'm also learning C#
 
